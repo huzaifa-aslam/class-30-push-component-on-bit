@@ -26,5 +26,5 @@ click on your component
 
 copy the npm package name like "npm i @bit/huzaifa-aslam.helloworld.hello-world"
 
-npm config set @bit:registry https://node.bit.dev // if u dont have bit and u want run compponen then install first above command then try
+npm config set @bit:registry https://node.bit.dev // if u dont have bit and u want run component then install first above command then try
 
